@@ -115,11 +115,11 @@ Os percentuais dos perfis foram utilizados como exemplos didáticos do curso. N�
 
 ### Perfil Conservador
 
-![Simulação com perfil Conservador](perfil-conservador.png)
+![Simulação com perfil Conservador](agressivo.PNG)
 
 ### Perfil Agressivo
 
-![Simulação com perfil Agressivo](perfil-agressivo.png)
+![Simulação com perfil Agressivo](conservador.PNG)
 
 ## Observação
 
