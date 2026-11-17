@@ -41,3 +41,7 @@ Aprendizados
 Observação
 
 Os valores apresentados são simulações baseadas nas configurações utilizadas na planilha. Não representam garantia de rentabilidade ou recomendação de investimento.
+
+## Prévia do projeto
+
+![DIO INVEST](preview.png)
