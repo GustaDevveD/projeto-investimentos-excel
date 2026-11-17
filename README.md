@@ -113,6 +113,14 @@ Os percentuais dos perfis foram utilizados como exemplos didáticos do curso. N�
 
 ![DIO INVEST](Preview.PNG)
 
+### Perfil Conservador
+
+![Simulação com perfil Conservador](perfil-conservador.png)
+
+### Perfil Agressivo
+
+![Simulação com perfil Agressivo](perfil-agressivo.png)
+
 ## Observação
 
 Os valores e resultados apresentados são simulações baseadas nas configurações utilizadas na planilha. As projeções não representam garantia de rentabilidade nem recomendação de investimento.
