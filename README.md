@@ -44,4 +44,4 @@ Os valores apresentados são simulações baseadas nas configurações utilizada
 
 ## Prévia do projeto
 
-![DIO INVEST](preview.png)
+![DIO INVEST](Preview.PNG)
